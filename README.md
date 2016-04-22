@@ -4,10 +4,10 @@
 
 ## Objectives
 
-1. Understand how to read error messages.
-2. Practice fixing some common errors.
-3. Practice using the `learn` command in your terminal to run the tests for a lab.
-4. Practice submitting a lab. 
+1. Read error messages.
+2. Fix some common errors.
+3. Use the `learn` command in your terminal to run the tests for a lab.
+4. Submit a lab. 
 
 ## Video Lecture
 
